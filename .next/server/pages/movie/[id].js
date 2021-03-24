@@ -3093,7 +3093,7 @@ const movie = ({
 };
 
 const getServerSideProps = async context => {
-  const res = await fetch(`http://api.themoviedb.org/3/movie/${context.params.id}?api_key=e649c1ec4f43c9f8ea307ec5aec0e891`);
+  const res = await fetch(`https://api.themoviedb.org/3/movie/${context.params.id}?api_key=e649c1ec4f43c9f8ea307ec5aec0e891`);
   const movie = await res.json();
   return {
     props: {
@@ -3102,7 +3102,7 @@ const getServerSideProps = async context => {
   };
 }; // export const getStaticPaths = async () => {
 //   const res = await fetch(
-//     `http://api.themoviedb.org/3/movie/now_playing?api_key=e649c1ec4f43c9f8ea307ec5aec0e891`
+//     `https://api.themoviedb.org/3/movie/now_playing?api_key=e649c1ec4f43c9f8ea307ec5aec0e891`
 //   );
 //   const movies = await res.json();
 //   console.log();

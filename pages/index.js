@@ -98,9 +98,9 @@ export const getStaticProps = async () => {
 };
 
 const getData = async (page, search) => {
-  let url = `http://api.themoviedb.org/3/movie/now_playing?api_key=e649c1ec4f43c9f8ea307ec5aec0e891&page=${page}`;
+  let url = `https://api.themoviedb.org/3/movie/now_playing?api_key=e649c1ec4f43c9f8ea307ec5aec0e891&page=${page}`;
   if (search) {
-    url = `http://api.themoviedb.org/3/search/movie?api_key=e649c1ec4f43c9f8ea307ec5aec0e891&page=${page}&query=${search}`;
+    url = `https://api.themoviedb.org/3/search/movie?api_key=e649c1ec4f43c9f8ea307ec5aec0e891&page=${page}&query=${search}`;
   }
   try {
     const res = await fetch(url);
