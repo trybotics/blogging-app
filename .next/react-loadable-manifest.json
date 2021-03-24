@@ -1,0 +1,254 @@
+{
+  "./amplify-amazon-button_5.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-amazon-button_5.entry.js",
+      "file": "static/chunks/10.js"
+    }
+  ],
+  "./amplify-auth-fields_9.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-auth-fields_9.entry.js",
+      "file": "static/chunks/11.js"
+    }
+  ],
+  "./amplify-authenticator.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-authenticator.entry.js",
+      "file": "static/chunks/0.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/auth-helpers-bd096ca7.js",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "./amplify-button_3.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-button_3.entry.js",
+      "file": "static/chunks/12.js"
+    }
+  ],
+  "./amplify-chatbot.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-chatbot.entry.js",
+      "file": "static/chunks/13.js"
+    }
+  ],
+  "./amplify-checkbox.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-checkbox.entry.js",
+      "file": "static/chunks/14.js"
+    }
+  ],
+  "./amplify-confirm-sign-in_7.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-confirm-sign-in_7.entry.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/auth-helpers-bd096ca7.js",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./amplify-container.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-container.entry.js",
+      "file": "static/chunks/15.js"
+    }
+  ],
+  "./amplify-federated-buttons_2.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-federated-buttons_2.entry.js",
+      "file": "static/chunks/16.js"
+    }
+  ],
+  "./amplify-federated-sign-in.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-federated-sign-in.entry.js",
+      "file": "static/chunks/17.js"
+    }
+  ],
+  "./amplify-form-field_4.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-form-field_4.entry.js",
+      "file": "static/chunks/18.js"
+    }
+  ],
+  "./amplify-greetings.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-greetings.entry.js",
+      "file": "static/chunks/19.js"
+    }
+  ],
+  "./amplify-icon-button.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-icon-button.entry.js",
+      "file": "static/chunks/20.js"
+    }
+  ],
+  "./amplify-icon.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-icon.entry.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/icons-43a13d61.js",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "./amplify-link.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-link.entry.js",
+      "file": "static/chunks/21.js"
+    }
+  ],
+  "./amplify-nav_2.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-nav_2.entry.js",
+      "file": "static/chunks/22.js"
+    }
+  ],
+  "./amplify-photo-picker.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-photo-picker.entry.js",
+      "file": "static/chunks/23.js"
+    }
+  ],
+  "./amplify-picker.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-picker.entry.js",
+      "file": "static/chunks/24.js"
+    }
+  ],
+  "./amplify-radio-button_2.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-radio-button_2.entry.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/auth-helpers-bd096ca7.js",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "./amplify-s3-album.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-s3-album.entry.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/storage-helpers-48c373a0.js",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "./amplify-s3-image-picker.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-s3-image-picker.entry.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/storage-helpers-48c373a0.js",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "./amplify-s3-image.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-s3-image.entry.js",
+      "file": "static/chunks/6.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/storage-helpers-48c373a0.js",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "./amplify-s3-text-picker.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-s3-text-picker.entry.js",
+      "file": "static/chunks/7.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/storage-helpers-48c373a0.js",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "./amplify-s3-text.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-s3-text.entry.js",
+      "file": "static/chunks/8.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/storage-helpers-48c373a0.js",
+      "file": "static/chunks/8.js"
+    }
+  ],
+  "./amplify-select-mfa-type.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-select-mfa-type.entry.js",
+      "file": "static/chunks/25.js"
+    }
+  ],
+  "./amplify-sign-in-button.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-sign-in-button.entry.js",
+      "file": "static/chunks/9.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/icons-43a13d61.js",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "./amplify-toast.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-toast.entry.js",
+      "file": "static/chunks/26.js"
+    }
+  ],
+  "./amplify-tooltip.entry.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/amplify-tooltip.entry.js",
+      "file": "static/chunks/27.js"
+    }
+  ],
+  "./core-js.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm/polyfills/core-js.js",
+      "file": "static/chunks/polyfills-core-js.js"
+    }
+  ],
+  "./css-shim-3b0ed064.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/css-shim-3b0ed064.js",
+      "file": "static/chunks/polyfills-css-shim.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/29.js"
+    }
+  ],
+  "./dom-3fa9e65e.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/dom-3fa9e65e.js",
+      "file": "static/chunks/polyfills-dom.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm/polyfills/dom.js",
+      "file": "static/chunks/polyfills-dom.js"
+    }
+  ],
+  "./dom.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/dom-3fa9e65e.js",
+      "file": "static/chunks/polyfills-dom.js"
+    },
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm/polyfills/dom.js",
+      "file": "static/chunks/polyfills-dom.js"
+    }
+  ],
+  "./shadow-css-360bb6da.js": [
+    {
+      "id": "./node_modules/@aws-amplify/ui-components/dist/esm-es5/shadow-css-360bb6da.js",
+      "file": "static/chunks/28.js"
+    }
+  ]
+}

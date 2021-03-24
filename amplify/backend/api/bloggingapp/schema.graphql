@@ -1,0 +1,13 @@
+type FavoriteMovie @model {
+  id: ID!
+  movie_id: String!
+  user_id: String!
+  title: String!
+  original_title: String!
+  backdrop_path: String!
+  poster_path: String!
+  popularity: String!
+  vote_average: String!
+  vote_count: String!
+  overview: String!
+}
