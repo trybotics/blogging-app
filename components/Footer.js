@@ -58,8 +58,8 @@ class Footer extends Component {
           Copyright &copy; 2021 Memorang
           <ul className={classes.fMenu}>
             <li>
-              <a href="/dashboard" target="_blank">
-                Dasboard
+              <a href="/" target="_blank">
+                Home
               </a>
             </li>
             <li>

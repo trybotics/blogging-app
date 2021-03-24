@@ -49,8 +49,8 @@ export default function Home({ moviesProps }) {
       >
         <InputBase
           className={classes.input}
-          placeholder="Search Google Maps"
-          inputProps={{ "aria-label": "search google maps" }}
+          placeholder="Search Movies"
+          inputProps={{ "aria-label": "search movies" }}
           style={{ marginLeft: 20, marginTop: 8, width: "80%" }}
           onKeyDown={async (e) => {
             var code = e.keyCode ? e.keyCode : e.which;

@@ -58,15 +58,20 @@ export const getStaticProps = async () => {
 
 const getData = async (page, search) => {
   try {
-    const res = await API.graphql(graphqlOperation(listFavoriteMovies));
-    console.log(
-      "res.data.listFavoriteMovies.items",
-      res,
-      res.data.listFavoriteMovies.items
+    const res = await API.graphql(
+      graphqlOperation(listFavoriteMovies, {
+        filter: {
+          user_id: {
+            eq: localStorage.getItem(
+              "CognitoIdentityServiceProvider.11jck81hehtgj7ufu892uh203p.LastAuthUser"
+            ),
+          },
+        },
+      })
     );
     return res.data.listFavoriteMovies.items;
   } catch (error) {
-    console.log("error", error);
+    // console.log("error", error);
     return [];
   }
 };
