@@ -73,7 +73,7 @@ export default function MediaCard({ movie, favorite, removeMovie }) {
         <CardActionArea>
           <CardMedia
             className={classes.media}
-            image={`http://image.tmdb.org/t/p/w185${movie.backdrop_path}`}
+            image={`https://image.tmdb.org/t/p/w185${movie.backdrop_path}`}
             title={movie.original_title}
           />
           <CardContent>

@@ -22,7 +22,7 @@ const movie = ({ movie }) => {
       </Button>
       <br />
       <br />
-      <img src={`http://image.tmdb.org/t/p/w185${movie.poster_path}`} />
+      <img src={`https://image.tmdb.org/t/p/w185${movie.poster_path}`} />
       <Typography
         variant="h5"
         gutterBottom
